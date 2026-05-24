@@ -9,7 +9,7 @@
    
    > Hello! I am a Bachelor Of Science and Information Technology student. This is my portfolio for **CPROG-2** and this is also my documentation to my project related to programming and technology.
 
-## **Skills**
+## 💼 **Skills**
 
 <details> 
   
@@ -20,7 +20,7 @@
 
 </details>
   
-## **Technologies**
+## 🧑‍💻 **Technologies**
 
 <details> 
   
@@ -30,8 +30,3 @@
 * **Microsoft Teams**
   
 </details>
-
-
-
-   
-   
