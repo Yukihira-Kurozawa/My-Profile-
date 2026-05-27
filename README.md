@@ -1,4 +1,4 @@
-# *My Portfolio*
+# *IT1C_Portfolio_Malibiran*
 ---
 # ℹ️ *Personal Information*
  * Name: *Jex D. Malibiran*
@@ -31,7 +31,7 @@
   
 </details>
 
-# ** Projects**
+# **Projects**
 
 <details> 
 
