@@ -29,7 +29,7 @@
   
 </details>
 
-#💻 **Projects**
+# 💻 **Projects**
 
 <details> 
    
