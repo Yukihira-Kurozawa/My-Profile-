@@ -35,8 +35,13 @@
 
 <details> 
    
-- [IT1C_PythonProject_QUEUING](https://github.com/daylighttg/IT1C_PythonProject_QUEUING)
-![Screenshot]()
+### Queue Management System
+
+A queue management system project.
+
+- Repo: https://github.com/daylighttg/IT1C_PythonProject_QUEUING
+
+![Queue System screenshot](images/Queue_management_system.png)
 
 </details>
 
