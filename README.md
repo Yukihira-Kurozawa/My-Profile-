@@ -1,4 +1,3 @@
-
 # ℹ️ *Personal Information*
  * Name: *Jex D. Malibiran*
  * Location: *Palawan, Philippines*
@@ -30,7 +29,7 @@
   
 </details>
 
-# **Projects**
+#💻 **Projects**
 
 <details> 
    
