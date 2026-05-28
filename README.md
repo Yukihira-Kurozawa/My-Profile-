@@ -5,8 +5,9 @@
 
    ## **About Me**
    
-   > Hello! I am a Bachelor Of Science and Information Technology student. This is my portfolio for **CPROG-2** and this is also my documentation to my project related to programming and technology.
-
+   >Hi, I'm Jex
+    
+>I am a Bachelor of Science in Information Technology *(BSIT)* student in **Fullbright College**. This portfolio showcases my programming journey, practical projects, and the problem-solving skills I am building in my **CPROG-2** course.
 ## 💼 **Skills**
 
 <details> 
